@@ -1,6 +1,6 @@
 {
   "name": "algorithms-in-coffee",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic Algorithms written in coffee to (to stay sharp).",
   "main": "index.js",
   "scripts": {
