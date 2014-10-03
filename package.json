@@ -2,7 +2,7 @@
   "name": "algorithms",
   "version": "0.0.1",
   "description": "Basic Algorithms written in coffee to (to stay sharp).",
-  "main": "index.coffee",
+  "main": "index.js",
   "scripts": {
     "test": "mocha --reporter list --compilers coffee:coffee-script/register tests"
   },
