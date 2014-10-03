@@ -1,0 +1,26 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "Basic Algorithms written in coffee to (to stay sharp).",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha --reporter list --compilers coffee:coffee-script/register tests"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "license": "EPL (Eclipse Public License)",
+  "repository": "https://github.com/lcaballero/algorithms-in-coffee.git",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3",
+    "nject": "^1.2.2"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  }
+}
