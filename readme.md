@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lcaballero/algorithms-in-coffee-in-coffee.svg?branch=master)](https://travis-ci.org/) [![NPM version](https://badge.fury.io/js/algorithms-in-coffee-in-coffee.svg)](http://badge.fury.io/js/algorithms-in-coffee-in-coffee)
+[![Build Status](https://travis-ci.org/lcaballero/algorithms-in-coffee.svg?branch=master)](https://travis-ci.org/) [![NPM version](https://badge.fury.io/js/algorithms-in-coffee.svg)](http://badge.fury.io/js/algorithms-in-coffee)
 
 # Introduction
 A lib of algorithms written in CoffeeScript (to stay sharp).
